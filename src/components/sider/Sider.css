@@ -1,0 +1,52 @@
+/* Sider.css */
+.custom-sider {
+    background-color: #002766;
+  }
+  
+  .custom-title {
+    color: #ffec3d;
+    padding-top: 1rem;
+    text-align: center;
+  }
+  
+  .custom-menu {
+    background-color: #002766;
+    border-right: none;
+  }
+  
+  .custom-link {
+    color: #ffec3d !important;
+    font-weight: bold;
+  }
+  
+  .custom-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3c763d;
+    padding: 0 16px;
+  }
+  
+  .trigger-button {
+    font-size: 16px;
+    color: #ffec3d;
+  }
+  
+  .custom-search {
+    width: 500px;
+    background-color: #3c763d;
+    color: #ffffff;
+  }
+  
+  .custom-avatar {
+    background-color: #ffec3d;
+    color: #002766;
+  }
+  
+  .custom-content {
+    margin: 24px 16px;
+    padding: 24px;
+    background-color: #ffffff;
+    min-height: 280px;
+  }
+  
